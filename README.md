@@ -9,7 +9,6 @@
 [![Engine](https://img.shields.io/badge/Engine-Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
 [![Language](https://img.shields.io/badge/Linguagem-GDScript-4E91CC?style=for-the-badge&logo=gdscript&logoColor=white)](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/)
 [![Art](https://img.shields.io/badge/Arte-LibreSprite-FF6B6B?style=for-the-badge&logo=aseprite&logoColor=white)](https://libresprite.github.io/)
-[![Platform](https://img.shields.io/badge/Plataforma-PC-informational?style=for-the-badge&logo=windows&logoColor=white)]()
 </div>
 
 ---
