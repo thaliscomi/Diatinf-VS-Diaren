@@ -81,7 +81,7 @@ Jogo 2D estilo RPG top - down onde o jogador é um aluno novato de infoweb explo
       <td align="center" valign="top" style="padding: 16px;">
         <a href="https://github.com/" target="_blank">
           <img
-            src="https://via.placeholder.com/110"
+            src="https://scontent.cdninstagram.com/v/t51.82787-19/694229437_18074335562370711_1946757529688184653_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43MjAuQzMifQ%3D%3D&_nc_ohc=Kaf5T5SdevIQ7kNvwE0TbjK&_nc_oc=AdqFY4RYf30Gfq5Nb9vOTSoMofhwW3WxO9mNfh82qNNsvv9zEvt9Sa3L8pr330Mvm-M&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lGZilty4zrem4s0cBZBylg&_nc_ss=7a22e&oh=00_Af7UA1B-fpWQ7bRRDdtC_11vT3ci4P7FV2Mlmj8wknOQDg&oe=6A03B306"
             width="110"
             height="110"
             alt="Foto de Hanna"
