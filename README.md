@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Banner / Logo area -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Diatinf+VS+Diaren;Um+RPG+no+IFRN+%F0%9F%8E%93;Explore+o+CNAT!;Em+desenvolvimento...+%F0%9F%9A%A7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=4b8bbb&center=true&vCenter=true&width=600&lines=Diatinf+VS+Diaren;Explore+o+CNAT!;Em+desenvolvimento..." alt="Typing SVG" />
 
 <br/>
 
@@ -16,31 +16,13 @@
 
 ---
 
-## 🧠 Sobre o jogo
+##  Sobre o jogo
 
-> *"Uma aventura pixel art dentro dos corredores do IFRN CNAT — onde a realidade vira RPG."*
-
-**Diatinf VS Diaren** é um RPG 2D top-down em pixel art, inspirado em jogos como [![Pokémon](https://img.shields.io/badge/-Pokémon-FFCC00?style=flat-square&logo=nintendo&logoColor=black)](https://www.pokemon.com) [![RPG Maker](https://img.shields.io/badge/-RPG%20Maker-8B0000?style=flat-square)](https://www.rpgmakerweb.com/) [![OneShot](https://img.shields.io/badge/-OneShot-2c2c2c?style=flat-square)](https://store.steampowered.com/app/420530/OneShot/)
+**Diatinf VS Diaren** é um RPG 2D top-down em pixel art.
 
 O jogo se passa no **IFRN Campus Natal Central (CNAT)** e tem como objetivo criar uma experiência divertida e imersiva que ajude novos alunos a conhecerem o campus.
 
 O jogador controla um estudante que pode explorar o IF, conversar com NPCs, entrar em salas, completar missões, descobrir segredos e acompanhar uma história com humor e elementos de ficção.
-
----
-
-## 🚧 Status do projeto
-
-<div align="center">
-
-```
-🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥  Em desenvolvimento inicial (protótipo)
-```
-
-</div>
-
-Atualmente o projeto possui:
-
-- [x] Movimentação do personagem
 
 ---
 
@@ -132,17 +114,7 @@ Atualmente o projeto possui:
 
 - 🔤 Nome do personagem
 - 🎨 Cor do personagem
-
----
-
-## 💻 Plataforma
-
-<div align="center">
-
-[![PC](https://img.shields.io/badge/Plataforma-PC-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/)
-
-</div>
-
+  
 ---
 
 ## 👥 Nossa Equipe
@@ -249,8 +221,6 @@ Atualmente o projeto possui:
 ---
 
 <div align="center">
-
-*Feito com 💜 no IFRN CNAT*
 
 [![Godot](https://img.shields.io/badge/Powered%20by-Godot%20Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white)](https://godotengine.org/)
 
