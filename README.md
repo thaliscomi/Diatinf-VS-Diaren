@@ -1,5 +1,77 @@
-# Diatinf VS Diaren
-Jogo 2D estilo RPG top - down onde o jogador é um aluno novato de infoweb explorando o CNAT. O jogo também serve como uma forma de ajudar calouros a se localizarem no campus.
+# Diatinf VS Diaren (nome temporário)
+
+## 🧠 Sobre o jogo
+Diatinf VS Diaren é um RPG 2D top-down em pixel art, inspirado em jogos como Pokémon, RPG Maker e OneShot.  
+O jogo se passa no IFRN Campus Natal Central (CNAT) e tem como objetivo criar uma experiência divertida e imersiva que ajude novos alunos a conhecerem o campus.
+
+O jogador controla um estudante que pode explorar o IF, conversar com NPCs, entrar em salas, completar missões, descobrir segredos e acompanhar uma história com humor e elementos de ficção.
+
+## 🚧 Status do projeto
+Em desenvolvimento inicial (protótipo).
+
+Atualmente o projeto possui:
+- Movimentação do personagem
+
+## 🗺️ Estrutura inicial (fase atual)
+Primeira área sendo desenvolvida:
+- Portaria
+- Sala de cadastro
+  
+## 🎮 Gameplay
+- Exploração livre do campus
+- Interação com NPCs
+- Sistema de diálogos
+- Missões principais e secundárias
+- Entrada em ambientes internos
+- Progressão por áreas desbloqueáveis
+
+### Fluxo inicial:
+1. Jogador chega ao CNAT
+2. Surge na portaria
+3. Explora o mapa
+4. Tenta passar na catraca (bloqueado)
+5. NPC orienta cadastro facial
+6. Jogador entra na sala
+7. Criação de personagem
+
+<!--## 🎨 Estilo visual
+O jogo segue um estilo pixel art moderno:
+- Câmera top-down
+- Mapas ricos em detalhes
+- Iluminação e ambientação
+- Elementos urbanos e vegetação
+- Sensação de mundo vivo e organizado-->
+
+## ⚙️ Tecnologias usadas
+- Godot
+- GDScript
+- LibreSprite
+
+## 🧩 Sistemas planejados
+- Colisão
+- Câmera dinâmica
+- NPCs e diálogos avançados
+- Missões
+- Inventário
+- Save/Load
+- Áudio e efeitos sonoros
+- Animações
+- Tilesets personalizados
+
+## 🕹️ Mecânicas atuais (protótipo)
+- Movimento em 4 direções
+- Interação básica
+- Sistema simples de diálogo
+- Transição entre áreas
+
+## 🎭 Customização
+- Nome do personagem
+- Cor do personagem
+
+## 💻 Plataforma
+PC
+
+
 ## 👥 Nossa Equipe
 <br>
 <table align="center" border="0" cellspacing="0" cellpadding="16">
