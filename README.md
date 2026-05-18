@@ -25,12 +25,12 @@ O jogador controla um estudante que pode explorar o IF, conversar com NPCs, entr
 
 ## 🗺️ Estrutura inicial — *fase atual*
 
-> 📍 Primeira área sendo desenvolvida:
+>  Primeira área sendo desenvolvida:
 
 ```
 🏫 CNAT — Campus Natal Central
- ├── 🚪 Portaria
- └── 📋 Sala de cadastro
+ ├──  Portaria
+ └──  Sala de cadastro
 ```
 
 ---
@@ -55,13 +55,13 @@ O jogador controla um estudante que pode explorar o IF, conversar com NPCs, entr
       ↓
 3️⃣  Explora o mapa
       ↓
-4️⃣  Tenta passar na catraca  ⛔ (bloqueado)
+4️⃣  Tenta passar na catraca (bloqueado)
       ↓
 5️⃣  NPC orienta sobre cadastro facial
       ↓
 6️⃣  Jogador entra na sala
       ↓
-7️⃣  🎭 Criação de personagem
+7️⃣  Criação de personagem
 ```
 
 ---
@@ -84,15 +84,15 @@ O jogador controla um estudante que pode explorar o IF, conversar com NPCs, entr
 
 | Sistema | Status |
 |---|---|
-| 💥 Colisão | 🔄 Planejado |
-| 🎥 Câmera dinâmica | 🔄 Planejado |
-| 🗣️ NPCs e diálogos avançados | 🔄 Planejado |
-| 📜 Missões | 🔄 Planejado |
-| 🎒 Inventário | 🔄 Planejado |
-| 💾 Save / Load | 🔄 Planejado |
-| 🔊 Áudio e efeitos sonoros | 🔄 Planejado |
-| 🏃 Animações | 🔄 Planejado |
-| 🧱 Tilesets personalizados | 🔄 Planejado |
+| Colisão | 🔄 Planejado |
+| Câmera dinâmica | 🔄 Planejado |
+| NPCs e diálogos avançados | 🔄 Planejado |
+| Missões | 🔄 Planejado |
+| Inventário | 🔄 Planejado |
+| Save / Load | 🔄 Planejado |
+| Áudio e efeitos sonoros | 🔄 Planejado |
+| Animações | 🔄 Planejado |
+| Tilesets personalizados | 🔄 Planejado |
 
 </div>
 
@@ -100,17 +100,17 @@ O jogador controla um estudante que pode explorar o IF, conversar com NPCs, entr
 
 ## 🕹️ Mecânicas atuais — *protótipo*
 
-- ➡️ Movimento em 4 direções
-- 💬 Interação básica
-- 🗨️ Sistema simples de diálogo
-- 🌐 Transição entre áreas
+-  Movimento em 4 direções
+-  Interação básica
+-  Sistema simples de diálogo
+-  Transição entre áreas
 
 ---
 
 ## 🎭 Customização
 
-- 🔤 Nome do personagem
-- 🎨 Cor do personagem
+-  Nome do personagem
+-  Cor do personagem
   
 ---
 
@@ -124,7 +124,7 @@ O jogador controla um estudante que pode explorar o IF, conversar com NPCs, entr
       <td align="center" valign="top" style="padding: 16px;">
         <a href="https://github.com/s4muelandrey" target="_blank">
           <img
-            src="https://instagram.fssa32-1.fna.fbcdn.net/v/t51.82787-19/589027686_18024759938781700_754724788068101134_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fssa32-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gE3t8CzaFV6vlQfUbcrdbgmJJOZEXY_44MphiZmuQeM5JnZt95rEH_nOL-YkBVKORQ&_nc_ohc=Z1gOG0PBrngQ7kNvwFtP5EV&_nc_gid=b98qufUhG387Eg_nEM-oLg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af5V9gsg1ex9ijExlA-OqVKhPcTDOV_NIug2vPkJdRonTw&oe=6A0300AE&_nc_sid=7d3ac5.png"
+            src="https://scontent.cdninstagram.com/v/t51.82787-19/589027686_18024759938781700_754724788068101134_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=NTz_SErCKsgQ7kNvwEu2wo0&_nc_oc=AdrLRJajsLE9X3m1HbbbdQ6r2V6iQPeAXPDwy17GDZupz52J0jO1zt7cLEEtqUbOprw&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=p7qU9AKC4LufovIccuGM1Q&_nc_ss=7a6a8&oh=00_Af4XnuYGsBK3Sir_EG6LhBI7RGTgo-bYz_hRu8pu2HRSHg&oe=6A10D86E"
             width="110"
             height="110"
             alt="Foto de Samuka"
@@ -196,7 +196,7 @@ O jogador controla um estudante que pode explorar o IF, conversar com NPCs, entr
       <td align="center" valign="top" style="padding: 16px;">
         <a href="https://github.com/" target="_blank">
           <img
-            src="https://scontent.cdninstagram.com/v/t51.82787-19/694229437_18074335562370711_1946757529688184653_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43MjAuQzMifQ%3D%3D&_nc_ohc=Kaf5T5SdevIQ7kNvwE0TbjK&_nc_oc=AdqFY4RYf30Gfq5Nb9vOTSoMofhwW3WxO9mNfh82qNNsvv9zEvt9Sa3L8pr330Mvm-M&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lGZilty4zrem4s0cBZBylg&_nc_ss=7a22e&oh=00_Af7UA1B-fpWQ7bRRDdtC_11vT3ci4P7FV2Mlmj8wknOQDg&oe=6A03B306"
+            src="https://scontent.cdninstagram.com/v/t51.82787-19/694229437_18074335562370711_1946757529688184653_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43MjAuQzMifQ%3D%3D&_nc_ohc=17_KpIeOmqQQ7kNvwFN4t-J&_nc_oc=AdqHaxBQ9Y1MxItdIxnVrceUYpl8zHbgVqjqQljsuRDkgrA3VIg3dmisFCQutzFwUSQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SrHoLsoT1zzaO37uCFQBig&_nc_ss=7a6a8&oh=00_Af4_uRHwXEDHpBdXSGwqsQJo2TahsYR3z2C9uEqrrelspw&oe=6A10E206"
             width="110"
             height="110"
             alt="Foto de Hanna"
