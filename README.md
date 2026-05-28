@@ -23,21 +23,21 @@ O jogador controla um estudante que pode explorar o IF, conversar com NPCs, entr
 
 ---
 
-## 🗺️ Estrutura inicial — *fase atual*
+##  Estrutura inicial — *fase atual*
 
 >  Primeira área sendo desenvolvida:
 
 ```
-🏫 CNAT — Campus Natal Central
+ CNAT — Campus Natal Central
  ├──  Portaria
  └──  Sala de cadastro
 ```
 
 ---
 
-## 🎮 Gameplay
+##  Gameplay
 
-| 🕹️ Funcionalidade | ✅ Incluída |
+|  Funcionalidade | ✅ Incluída |
 |---|---|
 | Exploração livre do campus | ✅ |
 | Interação com NPCs | ✅ |
@@ -46,59 +46,46 @@ O jogador controla um estudante que pode explorar o IF, conversar com NPCs, entr
 | Entrada em ambientes internos | ✅ |
 | Progressão por áreas desbloqueáveis | ✅ |
 
-### 🔁 Fluxo inicial:
+###  Fluxo inicial:
 
 ```
-1️⃣  Jogador chega ao CNAT
+1️  Jogador chega ao CNAT
       ↓
-2️⃣  Surge na portaria
+2️  Surge na portaria
       ↓
-3️⃣  Explora o mapa
+3️  Explora o mapa
       ↓
-4️⃣  Tenta passar na catraca (bloqueado)
+4️  Tenta passar na catraca (bloqueado)
       ↓
-5️⃣  NPC orienta sobre cadastro facial
+5️  NPC orienta sobre cadastro facial
       ↓
-6️⃣  Jogador entra na sala
+6️  Jogador entra na sala
       ↓
-7️⃣  Criação de personagem
+7️  Criação de personagem
 ```
 
 ---
 
-## ⚙️ Tecnologias usadas
-
-<div align="center">
-
-[![Godot](https://img.shields.io/badge/Godot-4.x-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
-[![GDScript](https://img.shields.io/badge/GDScript-Script-4E91CC?style=for-the-badge&logo=gdscript&logoColor=white)](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/)
-[![LibreSprite](https://img.shields.io/badge/LibreSprite-Pixel%20Art-FF6B6B?style=for-the-badge&logo=aseprite&logoColor=white)](https://libresprite.github.io/)
-
-</div>
-
----
-
-## 🧩 Sistemas planejados
+##  Sistemas planejados
 
 <div align="center">
 
 | Sistema | Status |
 |---|---|
-| Colisão | 🔄 Planejado |
-| Câmera dinâmica | 🔄 Planejado |
-| NPCs e diálogos avançados | 🔄 Planejado |
-| Missões | 🔄 Planejado |
-| Inventário | 🔄 Planejado |
-| Save / Load | 🔄 Planejado |
-| Áudio e efeitos sonoros | 🔄 Planejado |
-| Animações | 🔄 Planejado |
-| Tilesets personalizados | 🔄 Planejado |
+| Colisão |  Concluido |
+| NPCs e diálogos avançados |  Planejado |
+| Missões |  Planejado |
+| Inventário |  Planejado |
+| Save / Load |  Planejado |
+| Áudio e efeitos sonoros |  Planejado |
+| Animações |  Concluido |
+| Tilesets personalizados |  Planejado |
 
 </div>
 
 ---
 
-## 🕹️ Mecânicas atuais — *protótipo*
+##  Mecânicas atuais — *protótipo*
 
 -  Movimento em 4 direções
 -  Interação básica
@@ -107,7 +94,7 @@ O jogador controla um estudante que pode explorar o IF, conversar com NPCs, entr
 
 ---
 
-## 🎭 Customização
+##  Customização
 
 -  Nome do personagem
 -  Cor do personagem
