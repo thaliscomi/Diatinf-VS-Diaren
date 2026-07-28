@@ -25,7 +25,7 @@ O jogador controla um estudante que pode explorar o IF, conversar com NPCs, entr
 
 ##  Estrutura inicial — *fase atual*
 
->  Primeira área sendo desenvolvida:
+>  Primeira área sendo desenvolvida
 
 ```
  CNAT — Campus Natal Central
