@@ -9,6 +9,7 @@
 [![Engine](https://img.shields.io/badge/Engine-Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
 [![Language](https://img.shields.io/badge/Linguagem-GDScript-4E91CC?style=for-the-badge&logo=gdscript&logoColor=white)](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/)
 [![Art](https://img.shields.io/badge/Arte-LibreSprite-FF6B6B?style=for-the-badge&logo=aseprite&logoColor=white)](https://libresprite.github.io/)
+
 </div>
 
 ---
@@ -21,71 +22,24 @@ O jogo se passa no **IFRN Campus Natal Central (CNAT)** e tem como objetivo cria
 
 O jogador controla um estudante que pode explorar o IF, conversar com NPCs, entrar em salas, completar missões, descobrir segredos e acompanhar uma história com humor e elementos de ficção.
 
+O jogador acompanha a historia de um(a) calouro(a) que vai tentar entender o mistério que ronda os arredores do auditório central do CNAT, junto com outros 3 calouros, um de cada diretoria. O jogo terá uma clima escolar e leve, ao mesmo tempo que existe um tom de mistério. Seus principais obstáculos serão as artimanhas de um vilão corrupto tentando esconder e encobrir uma escavação ilegal e extração de minérios radioativos.
+
+ A forma com que o jogador chegará no seu objetivo, que é revelar o que está acontecendo no CNAT e fazer que a justiça seja feita, é investigando o que está a seu alcance, conversando e se relacionando com as pessoas, quanto mais próximo ele for da pessoa, mais coisas podem ser reveladas, desbloqueando novos diálogos, e talvez até quebrando algumas regras se necessário...
+
+A jogabilidade do jogo se resume a diversos mini games, a exploração do campus, conversar com pessoas e completar missões, com o objetivo de investigar. As tampinhas(moedas do jogo) também terám bastante importância, o jogador poderá comprar itens e utiliza los pra si mesmo, pra completar missões, ou até pra presentear alguém ou subornar.
+
 ---
 
-##  Estrutura inicial — *fase atual*
+##  *fase atual*
 
->  Primeira área sendo desenvolvida
-
-```
- CNAT — Campus Natal Central
- ├──  Portaria
+### Primeira área sendo desenvolvida
+ CNAT — Campus Natal Central<br>
+ ├──  Portaria <br>
  └──  Sala de cadastro
-```
 
----
 
-##  Gameplay
 
-|  Funcionalidade | ✅ Incluída |
-|---|---|
-| Exploração livre do campus | ✅ |
-| Interação com NPCs | ✅ |
-| Sistema de diálogos | ✅ |
-| Missões principais e secundárias | ✅ |
-| Entrada em ambientes internos | ✅ |
-| Progressão por áreas desbloqueáveis | ✅ |
-
-###  Fluxo inicial:
-
-```
-1️  Jogador chega ao CNAT
-      ↓
-2️  Surge na portaria
-      ↓
-3️  Explora o mapa
-      ↓
-4️  Tenta passar na catraca (bloqueado)
-      ↓
-5️  NPC orienta sobre cadastro facial
-      ↓
-6️  Jogador entra na sala
-      ↓
-7️  Criação de personagem
-```
-
----
-
-##  Sistemas planejados
-
-<div align="center">
-
-| Sistema | Status |
-|---|---|
-| Colisão |  Concluido |
-| NPCs e diálogos avançados |  Planejado |
-| Missões |  Planejado |
-| Inventário |  Planejado |
-| Save / Load |  Planejado |
-| Áudio e efeitos sonoros |  Planejado |
-| Animações |  Concluido |
-| Tilesets personalizados |  Planejado |
-
-</div>
-
----
-
-##  Mecânicas atuais — *protótipo*
+###  Mecânicas atuais
 
 -  Movimento em 4 direções
 -  Interação básica
@@ -93,11 +47,45 @@ O jogador controla um estudante que pode explorar o IF, conversar com NPCs, entr
 -  Transição entre áreas
 
 ---
+## Principais Recursos de Jogabilidade
 
-##  Customização
+- Exploração 2D top-down do IFRN Campus Natal Central.
+- Investigação baseada em coleta, análise e conexão de evidências.
+- Sistema de diálogos com escolhas e opções desbloqueáveis.
+- Sistema de afinidade individual com NPCs.
+- Missões principais, obrigatórias e secundárias.
+- Inventário de itens, provas, chaves, presentes e objetos de missão.
+- Economia de tampinhas para compras, presentes, favores e possíveis subornos.
+- Quadro de pistas para organizar suspeitos, locais, objetos e acontecimentos.
+- Minigames contextualizados de investigação.
+- Ciclo de tempo com eventos, rotinas e disponibilidade de NPCs.
+- Sistema de suspeita e reputação ligado a ações proibidas.
+- Diário de investigação, mapa e minimapa.
 
--  Nome do personagem
--  Cor do personagem
+---
+
+##  Sistemas e mecânicas planejadas
+
+<!-- <div align="center">
+
+| Tipo | Sistema | Status | Prioridade | Documento |
+|---|---|---|---|---|
+|Mecânica| Andar e colisão |  Concluido/Em desenvolvimento |||
+|Mecânica| diálogos |  Em desenvolvimento |||
+||Missões |  Planejado |||
+|| Inventário |  Planejado |||
+|| Save / Load |  Em desenvolvimento |||
+|| Áudio e efeitos sonoros |  Planejado |||
+|| Animações |  Em desenvolvimento |||
+|| Tilesets personalizados |  Em desenvolvimento |||
+||NPCs||||
+||||||
+||||||
+||||||
+||||||
+||||||
+
+</div> -->
   
 ---
 
