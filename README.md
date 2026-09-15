@@ -66,26 +66,26 @@ A jogabilidade do jogo se resume a diversos mini games, a exploração do campus
 
 ##  Sistemas e mecânicas planejadas
 
-<!-- <div align="center">
+<div align="center">
 
 | Tipo | Sistema | Status | Prioridade | Documento |
 |---|---|---|---|---|
 |Mecânica| Andar e colisão |  Concluido/Em desenvolvimento |||
 |Mecânica| diálogos |  Em desenvolvimento |||
-||Missões |  Planejado |||
-|| Inventário |  Planejado |||
-|| Save / Load |  Em desenvolvimento |||
-|| Áudio e efeitos sonoros |  Planejado |||
-|| Animações |  Em desenvolvimento |||
-|| Tilesets personalizados |  Em desenvolvimento |||
-||NPCs||||
+|Mecânica de sistema|Missões |  Planejado |||
+|Mecânica| Inventário |  Planejado |||
+|Sistema| Save / Load |  Em desenvolvimento |||
+|Elemento estético| Áudio e efeitos sonoros |  Planejado |||
+|Elemento estético| Animações |  Em desenvolvimento |||
+|Elemento estético| Tilesets personalizados |  Em desenvolvimento |||
+|Elemento de jogabilidade | NPCs  |Planejado/Em desenvolvimento|||
 ||||||
 ||||||
 ||||||
 ||||||
 ||||||
 
-</div> -->
+</div>
   
 ---
 
