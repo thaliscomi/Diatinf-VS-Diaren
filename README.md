@@ -64,26 +64,25 @@ A jogabilidade do jogo se resume a diversos mini games, a exploração do campus
 
 ---
 
-##  Sistemas e mecânicas planejadas
-
+##  mecânicas do jogo
 <div align="center">
 
-| Tipo | Sistema | Status | Prioridade | Documento |
-|---|---|---|---|---|
-|Mecânica| Andar e colisão |  Concluido/Em desenvolvimento |||
-|Mecânica| diálogos |  Em desenvolvimento |||
-|Mecânica de sistema|Missões |  Planejado |||
-|Mecânica| Inventário |  Planejado |||
-|Sistema| Save / Load |  Em desenvolvimento |||
-|Elemento estético| Áudio e efeitos sonoros |  Planejado |||
-|Elemento estético| Animações |  Em desenvolvimento |||
-|Elemento estético| Tilesets personalizados |  Em desenvolvimento |||
-|Elemento de jogabilidade | NPCs  |Planejado/Em desenvolvimento|||
-||||||
-||||||
-||||||
-||||||
-||||||
+|Mecânica|Status|Prioridade|Documento|
+| :---: | :---: | :---: | :---: |
+| Andar | finalizado | Essencial | |
+| Dialogo | Em desenvolvimento | Essencial |  |
+| Interação | Em desenvolvimento | Essencial | |
+| Mini Mapa | Planejado | Opcional | |
+| inventário | Planejado | Importante | |
+| missões | Planejado | Essencial | |
+| Comprar/Lojas | Planejado | Importante | |
+| Presentear/Subornar | Planejado | Importante | |
+| Utilizar itens | Planejado | Importante | |
+| Inspeção | Planejado | Desejádo | |
+| Quadro de pistas | Planejado | Importante | |
+| Mini Games | Em planejamento | Opcional | |
+| Ciclo de tempo e dias | Planejado | Desejádo | |
+
 
 </div>
   
