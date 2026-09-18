@@ -124,7 +124,7 @@ A jogabilidade do jogo se resume a diversos mini games, a exploração do campus
           />
         </a>
         <br /><br />
-        <strong>WThalis</strong>
+        <strong>Thalis</strong>
         <br /><br />
         <a href="https://instagram.com/thall1s" target="_blank">
           📸 @thall1s
@@ -142,7 +142,7 @@ A jogabilidade do jogo se resume a diversos mini games, a exploração do campus
           />
         </a>
         <br /><br />
-        <strong>Vesgucho</strong>
+        <strong>Kainã</strong>
         <br /><br />
         <a href="https://instagram.com/kainsnz" target="_blank">
           📸 @kainsnz
