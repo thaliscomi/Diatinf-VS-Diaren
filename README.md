@@ -94,22 +94,22 @@ A jogabilidade do jogo se resume a diversos mini games, a exploração do campus
 <table align="center" border="0" cellspacing="0" cellpadding="16">
   <tbody>
     <tr>
-      <!-- ───────────────── Samuka ───────────────── -->
+      <!-- ───────────────── Myrella ───────────────── -->
       <td align="center" valign="top" style="padding: 16px;">
-        <a href="https://github.com/s4muelandrey" target="_blank">
+        <a href="https://github.com/" target="_blank">
           <img
-            src="https://scontent.cdninstagram.com/v/t51.82787-19/589027686_18024759938781700_754724788068101134_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=NTz_SErCKsgQ7kNvwEu2wo0&_nc_oc=AdrLRJajsLE9X3m1HbbbdQ6r2V6iQPeAXPDwy17GDZupz52J0jO1zt7cLEEtqUbOprw&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=p7qU9AKC4LufovIccuGM1Q&_nc_ss=7a6a8&oh=00_Af4XnuYGsBK3Sir_EG6LhBI7RGTgo-bYz_hRu8pu2HRSHg&oe=6A10D86E"
+            src="https://avatars.githubusercontent.com/u/282726053?v=4"
             width="110"
             height="110"
-            alt="Foto de Samuka"
+            alt="Foto de Myrella"
             style="border-radius: 50%; object-fit: cover; border: 3px solid #6e40c9;"
           />
         </a>
         <br /><br />
-        <strong>Samuka</strong>
+        <strong>Myrella</strong>
         <br /><br />
         <a href="https://instagram.com/samuelandrey07" target="_blank">
-          📸 @samuka
+          📸 @myrella
         </a>
       </td>
       <!-- ───────────────── WThalis ───────────────── -->
@@ -152,7 +152,7 @@ A jogabilidade do jogo se resume a diversos mini games, a exploração do campus
       <td align="center" valign="top" style="padding: 16px;">
         <a href="https://github.com/NIKAAAA666" target="_blank">
           <img
-            src="https://instagram.fssa32-1.fna.fbcdn.net/v/t51.82787-19/682012370_17965647015103657_3274627638182772831_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fssa32-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gGGzD1o4L8os42DzdGeoou2V_LhGTNFl1zz1NabXaw5VJA_OxAcwzyNSu8Ny-oyhCk&_nc_ohc=ftL52RUs-a4Q7kNvwFXMdg0&_nc_gid=Q0Tf3Y7CyWmMfhwXM8XyYQ&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af5vvKLbGJg1QwsO1HGy3IU_70qBAQdUk-fRydXWrKPwkg&oe=6A0307B6&_nc_sid=7d3ac5.png"
+            src="https://avatars.githubusercontent.com/u/282726053?v=4"
             width="110"
             height="110"
             alt="Foto de Cezar"
@@ -170,7 +170,7 @@ A jogabilidade do jogo se resume a diversos mini games, a exploração do campus
       <td align="center" valign="top" style="padding: 16px;">
         <a href="https://github.com/" target="_blank">
           <img
-            src="https://scontent.cdninstagram.com/v/t51.82787-19/694229437_18074335562370711_1946757529688184653_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43MjAuQzMifQ%3D%3D&_nc_ohc=17_KpIeOmqQQ7kNvwFN4t-J&_nc_oc=AdqHaxBQ9Y1MxItdIxnVrceUYpl8zHbgVqjqQljsuRDkgrA3VIg3dmisFCQutzFwUSQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SrHoLsoT1zzaO37uCFQBig&_nc_ss=7a6a8&oh=00_Af4_uRHwXEDHpBdXSGwqsQJo2TahsYR3z2C9uEqrrelspw&oe=6A10E206"
+            src="https://avatars.githubusercontent.com/u/282726053?v=4"
             width="110"
             height="110"
             alt="Foto de Hanna"
