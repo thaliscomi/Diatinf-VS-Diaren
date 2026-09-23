@@ -96,9 +96,9 @@ A jogabilidade do jogo se resume a diversos mini games, a exploração do campus
     <tr>
       <!-- ───────────────── Myrella ───────────────── -->
       <td align="center" valign="top" style="padding: 16px;">
-        <a href="https://github.com/" target="_blank">
+        <a href="https://github.com/myrsan37-sys" target="_blank">
           <img
-            src="https://avatars.githubusercontent.com/u/282726053?v=4"
+            src="https://avatars.githubusercontent.com/u/283257945?v=4"
             width="110"
             height="110"
             alt="Foto de Myrella"
